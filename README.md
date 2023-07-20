@@ -1,3 +1,5 @@
+![Blockchained](img/blockchained.png)
+
 # PyChain Ledger
 PyChain Ledger is a blockchain-based ledger system with a user-friendly web interface designed for financial transactions. It allows partner banks to securely conduct transactions and ensures the integrity of the stored data.
 
