@@ -41,7 +41,7 @@ To use the PyChain Ledger:
 
 ![Block Inspector Dropdown Menu](img/block_inspector_dropdown.png)
 
-**Highlighted Transaction In Dropdown Menu**
+**Highlighted Block In Dropdown Menu**
 
 ![Highlighted Transaction In Dropdown Menu](img/transaction_in_dropdown.png)
 
